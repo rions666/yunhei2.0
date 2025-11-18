@@ -15,23 +15,6 @@
 - `session` - 会话管理
 - `mbstring` - 多字节字符串处理
 
-#### PHP 配置要求
-```ini
-upload_max_filesize = 10M      # 上传文件大小限制
-post_max_size = 20M            # POST 数据大小限制
-max_execution_time = 300       # 脚本执行时间
-memory_limit = 128M            # 内存限制
-```
-
-### 浏览器要求
-- Chrome 60+
-- Firefox 60+
-- Safari 12+
-- Edge 79+
-- 或其他支持 HTML5 的现代浏览器
-
----
-
 
 ## 安装步骤
 
